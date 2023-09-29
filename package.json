@@ -1,0 +1,70 @@
+{
+  "name": "mindease-vscode-theme",
+  "displayName": "MindEase Theme",
+  "description": "Feel the ease in each field",
+  "version": "0.0.2",
+  "publisher": "yemreak",
+  "license": "Apache-2.0",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e1e1c",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yemreak/mindease-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/yemreak/mindease-vscode-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "dark",
+    "mind",
+    "mindease",
+    "ease",
+    "github",
+    "yemreak",
+    "typescript",
+    "javascript",
+    "react",
+    "python",
+    "night",
+    "solarized",
+    "blue"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "🦉 Night Owl: Wisdom in Darkness",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl.json"
+      },
+      {
+        "label": "🌑 Dark Mode: A Starry Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starry-night.json"
+      },
+      {
+        "label": "🌚 CosmicCrisp: Brilliance in High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmic-crisp.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  },
+  "__metadata": {
+		"id": "43c80285-dbc1-6e33-9c10-691920490e4a",
+		"publisherDisplayName": "yEmreAk",
+		"publisherId": "yemreak"
+	}
+}
