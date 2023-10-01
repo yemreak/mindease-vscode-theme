@@ -220,7 +220,7 @@
         {
             "scope": [
                 "support.variable.property",
-                "meta.type.parameters support.type",
+                "meta.type.parameters support.type"
             ],
             "settings": {
                 "foreground": "#c6c6c6",
