@@ -63,6 +63,9 @@
   "devDependencies": {
     "vsce": "^2.15.0"
   },
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "__metadata": {
 		"id": "43c80285-dbc1-6e33-9c10-691920490e4a",
 		"publisherDisplayName": "yEmreAk",
