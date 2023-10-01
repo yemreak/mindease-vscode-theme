@@ -359,15 +359,17 @@
         },
         {
             "name": "this, super, self",
-            "scope": "variable.language",
+            "scope": [
+                "variable.language",
+                "support.type.property-name"
+            ],
             "settings": {
                 "foreground": "#c37a67"
             }
         },
         {
             "scope": [
-                "support.type.property-name",
-                "support.type.exception",
+                "support.type.exception"
             ],
             "settings": {
                 "foreground": "#d77158",

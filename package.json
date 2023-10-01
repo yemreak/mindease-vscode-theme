@@ -1,8 +1,8 @@
 {
   "name": "mindease-vscode-theme",
   "displayName": "MindEase Theme",
-  "description": "Feel the ease in each field",
-  "version": "0.0.2",
+  "description": "Crafted with Neurodesign, Built for You",
+  "version": "0.0.3",
   "publisher": "yemreak",
   "license": "Apache-2.0",
   "icon": "icon.png",
@@ -31,6 +31,7 @@
     "mindease",
     "ease",
     "github",
+    "neurodesign",
     "yemreak",
     "typescript",
     "javascript",
