@@ -154,7 +154,6 @@
             "name": "functions",
             "scope": [
                 "meta.definition.method",
-                "log.warning",
                 "meta.function.shell",
                 "entity.name.function"
             ],
@@ -195,9 +194,31 @@
             }
         },
         {
+            "scope": "log.error",
+            "settings": {
+                "foreground": "#d77158",
+                "fontStyle": "italic bold"
+            }
+        },
+        {
             "scope": "log.debug",
             "settings": {
-                "foreground": "#808080"
+                "foreground": "#6b7992",
+                "fontStyle": "italic bold"
+            }
+        },
+        {
+            "scope": "log.warning",
+            "settings": {
+                "foreground": "#F1BE34",
+                "fontStyle": "italic bold"
+            }
+        },
+        {
+            "scope": "log.info",
+            "settings": {
+                "foreground": "#698ac9",
+                "fontStyle": "italic bold"
             }
         },
         {
@@ -374,12 +395,6 @@
             "settings": {
                 "foreground": "#d77158",
                 "fontStyle": "italic bold"
-            }
-        },
-        {
-            "scope": "log.error",
-            "settings": {
-                "foreground": "#d77158"
             }
         },
         {
