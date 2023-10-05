@@ -31,34 +31,35 @@
         "commandCenter.background": "#171712",
         "commandCenter.activeBackground": "#171712",
         "quickInput.background": "#171712",
-        "foreground": "#c1c1b1",
-        "quickInput.foreground": "#c1c1b1",
-        "button.foreground": "#c1c1b1",
-        "list.activeSelectionIconForeground": "#c1c1b1",
-        "tab.inactiveForeground": "#c1c1b1",
-        "titleBar.activeForeground": "#c1c1b1",
-        "dropdown.foreground": "#c1c1b1",
-        "editorHoverWidget.foreground": "#c1c1b1",
-        "input.foreground": "#c1c1b1",
-        "menu.foreground": "#c1c1b1",
-        "sideBar.foreground": "#c1c1b1",
-        "sideBarSectionHeader.foreground": "#c1c1b1",
-        "terminal.foreground": "#c1c1b1",
-        "tab.activeForeground": "#c1c1b1",
-        "editor.foreground": "#c1c1b1",
-        "statusBar.foreground": "#c1c1b1",
-        "icon.foreground": "#c1c1b1",
-        "editorSuggestWidget.focusHighlightForeground": "#c1c1b1",
-        "editorSuggestWidget.highlightForeground": "#c1c1b1",
-        "editorSuggestWidget.foreground": "#c1c1b1ae",
-        "list.activeSelectionForeground": "#c1c1b1",
-        "list.inactiveSelectionForeground": "#c1c1b1ee",
-        "menu.selectionForeground": "#c1c1b1",
-        "menubar.selectionBackground": "#c1c1b110",
-        "menubar.selectionForeground": "#c1c1b1",
-        "peekViewResult.lineForeground": "#c1c1b1",
-        "keybindingLabel.foreground": "#c1c1b1",
-        "list.focusForeground": "#c1c1b1",
+        "foreground": "#c1c1c1",
+        "activityBar.foreground": "#c1c1c1",
+        "quickInput.foreground": "#c1c1c1",
+        "button.foreground": "#c1c1c1",
+        "list.activeSelectionIconForeground": "#c1c1c1",
+        "tab.inactiveForeground": "#c1c1c1",
+        "titleBar.activeForeground": "#c1c1c1",
+        "dropdown.foreground": "#c1c1c1",
+        "editorHoverWidget.foreground": "#c1c1c1",
+        "input.foreground": "#c1c1c1",
+        "menu.foreground": "#c1c1c1",
+        "sideBar.foreground": "#c1c1c1",
+        "sideBarSectionHeader.foreground": "#c1c1c1",
+        "terminal.foreground": "#c1c1c1",
+        "tab.activeForeground": "#c1c1c1",
+        "editor.foreground": "#c1c1c1",
+        "statusBar.foreground": "#c1c1c1",
+        "icon.foreground": "#c1c1c1",
+        "editorSuggestWidget.focusHighlightForeground": "#c1c1c1",
+        "editorSuggestWidget.highlightForeground": "#c1c1c1",
+        "editorSuggestWidget.foreground": "#c1c1c1ae",
+        "list.activeSelectionForeground": "#c1c1c1",
+        "list.inactiveSelectionForeground": "#c1c1c1ee",
+        "menu.selectionForeground": "#c1c1c1",
+        "menubar.selectionBackground": "#c1c1c110",
+        "menubar.selectionForeground": "#c1c1c1",
+        "peekViewResult.lineForeground": "#c1c1c1",
+        "keybindingLabel.foreground": "#c1c1c1",
+        "list.focusForeground": "#c1c1c1",
         "gitDecoration.modifiedResourceForeground": "#dba827",
         "diffEditor.removedTextBackground": "#491616",
         "diffEditor.insertedTextBackground": "#596F29",
@@ -80,6 +81,8 @@
         "panelTitle.inactiveForeground": "#808080",
         "breadcrumb.foreground": "#808080",
         "peekViewResult.matchHighlightBackground": "#80808067",
+        "list.highlightForeground": "#808080",
+		"editorLineNumber.activeForeground": "#808080",
         "activityBar.border": "#2c2c2c",
         "editorGroup.border": "#2c2c2c",
         "editorGroupHeader.tabsBorder": "#2c2c2c",
@@ -218,6 +221,15 @@
             "settings": {
                 "foreground": "#c6c6c6",
                 "fontStyle": "italic bold"
+            }
+        },
+        {
+            "scope": [
+                "markup.list.numbered.markdown"
+            ],
+            "settings": {
+                "foreground": "#c6c6c6",
+                "fontStyle": "italic"
             }
         },
         {
@@ -400,7 +412,8 @@
         {
             "scope": [
                 "comment",
-                "markup.quote"
+                "markup.quote",
+                "markup.raw.block.markdown"
             ],
             "settings": {
                 "foreground": "#6b7992",

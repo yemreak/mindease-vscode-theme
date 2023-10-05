@@ -32,6 +32,7 @@
         "quickInput.background": "#1e1e1e",
         "commandCenter.activeBackground": "#1e1e1e",
         "foreground": "#c1c1c1",
+        "activityBar.foreground": "#c1c1c1",
         "quickInput.foreground": "#c1c1c1",
         "button.foreground": "#c1c1c1",
         "list.activeSelectionIconForeground": "#c1c1c1",
@@ -80,6 +81,8 @@
         "panelTitle.inactiveForeground": "#808080",
         "breadcrumb.foreground": "#808080",
         "peekViewResult.matchHighlightBackground": "#80808067",
+        "list.highlightForeground": "#808080",
+		"editorLineNumber.activeForeground": "#808080",
         "activityBar.border": "#2c2c2c",
         "editorGroup.border": "#2c2c2c",
         "editorGroupHeader.tabsBorder": "#2c2c2c",
@@ -218,6 +221,15 @@
             "settings": {
                 "foreground": "#c6c6c6",
                 "fontStyle": "italic bold"
+            }
+        },
+        {
+            "scope": [
+                "markup.list.numbered.markdown"
+            ],
+            "settings": {
+                "foreground": "#c6c6c6",
+                "fontStyle": "italic"
             }
         },
         {
@@ -400,17 +412,8 @@
         {
             "scope": [
                 "comment",
-                "markup.quote"
-            ],
-            "settings": {
-                "foreground": "#6b7992",
-                "fontStyle": "italic"
-            }
-        },
-        {
-            "scope": [
-                "comment",
-                "markup.quote"
+                "markup.quote",
+                "markup.raw.block.markdown"
             ],
             "settings": {
                 "foreground": "#6b7992",
