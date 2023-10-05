@@ -2,7 +2,7 @@
   "name": "mindease-vscode-theme",
   "displayName": "MindEase Theme",
   "description": "Crafted with Neurodesign, Built for You",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "yemreak",
   "license": "Apache-2.0",
   "icon": "icon.png",
@@ -57,6 +57,11 @@
         "label": "🌚 CosmicCrisp: Brilliance in High Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/cosmic-crisp.json"
+      },
+      {
+        "label": "🌕 Light Mode: A New Dawn (Beta)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/new-dawn.json"
       }
     ]
   },
