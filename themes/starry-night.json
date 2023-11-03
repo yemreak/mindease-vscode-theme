@@ -199,7 +199,7 @@
 				"meta.function-call",
 				"meta.statement.command.shell",
 				"meta.function-call.generic",
-				"support.class.promise",
+				"support.class.promise"
 			],
 			"settings": {
 				"foreground": "#f1be34",
@@ -242,7 +242,7 @@
 				"support.variable.magic",
 				"entity.name.function.decorator.python",
 				"keyword",
-				"string.regexp"
+				"string.regexp",
 			],
 			"settings": {
 				"foreground": "#A3C3C7",

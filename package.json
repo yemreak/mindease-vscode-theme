@@ -44,22 +44,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "🌑 Dark Mode: A Starry Night",
+        "label": "1. 🌑 Dark Mode: A Starry Night",
         "uiTheme": "vs-dark",
         "path": "./themes/starry-night.json"
       },
       {
-        "label": "🌚 CosmicCrisp: Brilliance in High Contrast",
+        "label": "2. 🌚 CosmicCrisp: Brilliance in High Contrast",
         "uiTheme": "hc-black",
         "path": "./themes/cosmic-crisp.json"
       },
       {
-        "label": "🦉 Night Owl: Wisdom in Darkness",
+        "label": "3. 🦉 Night Owl: Wisdom in Darkness",
         "uiTheme": "vs-dark",
         "path": "./themes/night-owl.json"
       },
       {
-        "label": "🌕 Light Mode: A New Dawn (Beta)",
+        "label": "4. 🌕 Light Mode: A New Dawn (Beta)",
         "uiTheme": "vs",
         "path": "./themes/new-dawn.json"
       }

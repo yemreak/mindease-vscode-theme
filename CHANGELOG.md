@@ -11,5 +11,5 @@
 
 - These modifications are exclusive to the Starry Night Theme.
 
-- ![debug](.github/images/7%20Oct%202023%20at%2013:41:35.png)
-- ![highlight](.github/images/7%20Oct%202023%20at%2013:37:13.png)
+- ![debug](https://i.imgur.com/TPcMSDe.jpg)
+- ![highlight](https://i.imgur.com/u4OvgcD.jpg)
