@@ -26,9 +26,9 @@ My color scheme is a carefully orchestrated symphony of intention:
 
 ## 🎉 Also available for macOS Alfred5 
 
-### [MindEase Light Theme - by yEmreAk.com](https://www.alfredapp.com/extras/theme/EbA1gWXFXz/)
+### [MindEase Light Theme - by yEmreAk.com](https://www.alfredapp.com/extras/theme/5iGLcmhZCM/)
 ![1](https://i.imgur.com/HVDPXeO.png)
-### [MindEase Dark Theme - by yEmreAk.com](https://www.alfredapp.com/extras/theme/DZpXJbZJRn/)
+### [MindEase Dark Theme - by yEmreAk.com](https://www.alfredapp.com/extras/theme/2IBtxedxKX/)
 ![2](https://i.imgur.com/ocgiv0l.png)
 
 
