@@ -24,6 +24,14 @@ My color scheme is a carefully orchestrated symphony of intention:
 
 > Code becomes art, and you become the artist, painting your logic on a canvas of endless possibilities.
 
+## 🎉 Also available for macOS Alfred5 
+
+### [MindEase Light Theme - by yEmreAk.com](https://www.alfredapp.com/extras/theme/EbA1gWXFXz/)
+![1](https://i.imgur.com/HVDPXeO.png)
+### [MindEase Dark Theme - by yEmreAk.com](https://www.alfredapp.com/extras/theme/DZpXJbZJRn/)
+![2](https://i.imgur.com/ocgiv0l.png)
+
+
 ## 🦉 Night Owl: Wisdom in Darkness [⇞](#🌱-mindease-for-vscode-crafted-with-neurodesign-built-for-you)
 
 ![night-owl](https://i.imgur.com/YmiQrKC.jpg)
