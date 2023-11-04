@@ -68,7 +68,11 @@
 		},
 		{
 			"name": "functions",
-			"scope": ["meta.definition.method", "meta.function.shell", "entity.name.function"],
+			"scope": [
+				"meta.definition.method",
+				"meta.function.shell",
+				"entity.name.function"
+			],
 			"settings": {
 				"foreground": "#bb8800"
 			}
@@ -88,7 +92,10 @@
 		},
 
 		{
-			"scope": ["support.variable.property", "meta.type.parameters support.type"],
+			"scope": [
+				"support.variable.property",
+				"meta.type.parameters support.type"
+			],
 			"settings": {
 				"foreground": "#7f7f7f",
 				"fontStyle": "italic bold"
@@ -115,7 +122,11 @@
 		},
 		{
 			"name": "operators",
-			"scope": ["source keyword.operator", "punctuation.separator", "punctuation.section"],
+			"scope": [
+				"source keyword.operator",
+				"punctuation.separator",
+				"punctuation.section"
+			],
 			"settings": {
 				"foreground": "#167d8b"
 			}
@@ -235,6 +246,7 @@
 		{
 			"scope": [
 				"storage.type",
+				"keyword",
 				"keyword.control",
 				"storage.modifier",
 				"storage.type.property",
@@ -324,6 +336,7 @@
 }
 /* Colors
 98C379 fistik yesili
+6AA564 yesil
 
 
 
