@@ -1,6 +1,10 @@
 # Change Log
 
-## Version 0.1.0 ()
+## Version 0.1.1
+
+![fix: semantic highlight #5](https://i.imgur.com/LghhwiH.png)
+
+## Version 0.1.0
 
 - [SQL Syntax Highlighting Issue #3](https://github.com/yemreak/mindease-vscode-theme/issues/3)
 
@@ -10,9 +14,9 @@
 ## Version 0.0.8 (31 Oct 2023 at 23:58:06)
 
 - `uiTheme` troubles fixed, you can sync themes with system now
-![regex-support](https://i.imgur.com/bZojLxO.jpg)
-![enum-support](https://i.imgur.com/TWsa4lj.jpg)
-![properties](https://i.imgur.com/rYiP0N4.jpg)
+  ![regex-support](https://i.imgur.com/bZojLxO.jpg)
+  ![enum-support](https://i.imgur.com/TWsa4lj.jpg)
+  ![properties](https://i.imgur.com/rYiP0N4.jpg)
 
 ## Version 0.0.7 (7 Oct 2023 at 13:35:49)
 
