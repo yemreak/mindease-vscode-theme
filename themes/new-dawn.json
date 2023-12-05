@@ -68,11 +68,7 @@
 		},
 		{
 			"name": "functions",
-			"scope": [
-				"meta.definition.method",
-				"meta.function.shell",
-				"entity.name.function"
-			],
+			"scope": ["meta.definition.method", "meta.function.shell", "entity.name.function"],
 			"settings": {
 				"foreground": "#bb8800"
 			}
@@ -92,10 +88,7 @@
 		},
 
 		{
-			"scope": [
-				"support.variable.property",
-				"meta.type.parameters support.type"
-			],
+			"scope": ["support.variable.property", "meta.type.parameters support.type"],
 			"settings": {
 				"foreground": "#7f7f7f",
 				"fontStyle": "italic bold"
@@ -122,11 +115,7 @@
 		},
 		{
 			"name": "operators",
-			"scope": [
-				"source keyword.operator",
-				"punctuation.separator",
-				"punctuation.section"
-			],
+			"scope": ["source keyword.operator", "punctuation.separator", "punctuation.section"],
 			"settings": {
 				"foreground": "#167d8b"
 			}
@@ -298,7 +287,7 @@
 			}
 		},
 		{
-			"scope": "log.debug",
+			"scope": ["log.debug", "keyword.codetag.notation"],
 			"settings": {
 				"foreground": "#6b7992",
 				"fontStyle": "italic bold"

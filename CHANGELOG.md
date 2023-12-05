@@ -1,5 +1,11 @@
 # Change Log
 
+## Version 0.1.2
+
+feature: python comment TODO, NOTE support
+
+![feature: python comment TODO, NOTE support](https://i.imgur.com/iQTxLWm.png)
+
 ## Version 0.1.1
 
 ![fix: semantic highlight #5](https://i.imgur.com/LghhwiH.png)
