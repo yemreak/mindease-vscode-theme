@@ -31,7 +31,6 @@
 		"commandCenter.background": "#fafafa",
 		"quickInput.background": "#fafafa",
 		"commandCenter.activeBackground": "#fafafa",
-
 		"editorSuggestWidget.focusHighlightForeground": "#3f3f3f",
 		"editorSuggestWidget.highlightForeground": "#3f3f3f",
 		"editorSuggestWidget.foreground": "#3f3f3fae"
