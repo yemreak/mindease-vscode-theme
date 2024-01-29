@@ -4,6 +4,10 @@
 	"include": "./dark-modern.json",
 	"author": "yemreak",
 	"colors": {
+		"debugView.stateLabelBackground": "#432d11",
+		"statusBar.debuggingBackground": "#2c2c2c",
+		"statusBar.background": "#1E1E1E",
+		"statusBarItem.remoteBackground": "#1E1E1E",
 		"editor.background": "#1e1e1e",
 		"activityBar.background": "#1e1e1e",
 		"dropdown.listBackground": "#1e1e1e",
@@ -95,8 +99,6 @@
 		"statusBar.noFolderBackground": "#2c2c2c",
 		"titleBar.border": "#2c2c2c",
 		"editorWhitespace.foreground": "#2c2c2c",
-		"statusBar.background": "#2c2c2c",
-		"statusBarItem.remoteBackground": "#2c2c2c",
 		"badge.background": "#2c2c2c",
 		"list.focusBackground": "#2c2c2ca2",
 		"list.inactiveSelectionBackground": "#2c2c2c",
@@ -188,7 +190,11 @@
 		},
 		{
 			"name": "functions",
-			"scope": ["meta.definition.method", "meta.function.shell", "entity.name.function"],
+			"scope": [
+				"meta.definition.method",
+				"meta.function.shell",
+				"entity.name.function"
+			],
 			"settings": {
 				"foreground": "#F1BE34"
 			}
@@ -227,7 +233,11 @@
 		},
 		{
 			"name": "operators",
-			"scope": ["source keyword.operator", "punctuation.separator", "punctuation.section"],
+			"scope": [
+				"source keyword.operator",
+				"punctuation.separator",
+				"punctuation.section"
+			],
 			"settings": {
 				"foreground": "#A3C3C7"
 			}
