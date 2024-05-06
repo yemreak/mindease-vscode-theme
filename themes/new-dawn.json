@@ -67,7 +67,11 @@
 		},
 		{
 			"name": "functions",
-			"scope": ["meta.definition.method", "meta.function.shell", "entity.name.function"],
+			"scope": [
+				"meta.definition.method",
+				"meta.function.shell",
+				"entity.name.function"
+			],
 			"settings": {
 				"foreground": "#bb8800"
 			}
@@ -114,7 +118,11 @@
 		},
 		{
 			"name": "operators",
-			"scope": ["source keyword.operator", "punctuation.separator", "punctuation.section"],
+			"scope": [
+				"source keyword.operator",
+				"punctuation.separator",
+				"punctuation.section"
+			],
 			"settings": {
 				"foreground": "#167d8b"
 			}

@@ -2,13 +2,17 @@
 	"name": "mindease-vscode-theme",
 	"displayName": "MindEase Theme",
 	"description": "Crafted with Neurodesign, Built for You",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"publisher": "yemreak",
 	"license": "Apache-2.0",
 	"icon": "icon.png",
 	"galleryBanner": {
 		"color": "#1e1e1c",
 		"theme": "dark"
+	},
+	"scripts": {
+		"publish": "vsce publish",
+		"package": "vsce package"
 	},
 	"repository": {
 		"type": "git",
@@ -66,7 +70,7 @@
 		]
 	},
 	"devDependencies": {
-		"vsce": "^2.15.0"
+		"@vscode/vsce": "^2.26.1"
 	},
 	"__metadata": {
 		"id": "43c80285-dbc1-6e33-9c10-691920490e4a",

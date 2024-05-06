@@ -4,10 +4,6 @@
 	"include": "./dark-modern.json",
 	"author": "yemreak",
 	"colors": {
-		"debugView.stateLabelBackground": "#432d11",
-		"statusBar.debuggingBackground": "#2c2c2c",
-		"statusBar.background": "#1E1E1E",
-		"statusBarItem.remoteBackground": "#1E1E1E",
 		"editor.background": "#1e1e1e",
 		"activityBar.background": "#1e1e1e",
 		"dropdown.listBackground": "#1e1e1e",
