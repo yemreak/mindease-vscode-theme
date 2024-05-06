@@ -1,5 +1,7 @@
 # 🌱 MindEase for VSCode: Crafted with Neurodesign, Built for You
 
+<!-- https://marketplace.visualstudio.com/manage/publishers/yemreak -->
+
 Step into the **MindEase** universe—a VSCode theme meticulously designed with [neurodesign principles](#🧠-neurodesign-principles) to minimize **cognitive load** and **eye strain**. MindEase offers both dark modes (_and light soon_), adapting to your mood and environmental needs. It's not just a theme; it's a transformative coding experience.
 
 My color scheme is a carefully orchestrated symphony of intention:
