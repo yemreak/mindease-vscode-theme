@@ -11,7 +11,7 @@
 		"theme": "dark"
 	},
 	"scripts": {
-		"publish": "vsce publish",
+		"publish": "npm version patch && vsce publish",
 		"package": "vsce package"
 	},
 	"repository": {
