@@ -2,6 +2,9 @@
 	"$schema": "vscode://schemas/color-theme",
 	"name": "Default Light Modern",
 	"colors": {
+		"scrollbarSlider.background": "#eaeaea",
+		"scrollbarSlider.hoverBackground": "#e2e2e2",
+		"scrollbarSlider.activeBackground": "#dddddd",
 		"actionBar.toggledBackground": "#dddddd",
 		"activityBar.activeBorder": "#005FB8",
 		"activityBar.background": "#F8F8F8",
