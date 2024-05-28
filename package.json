@@ -12,7 +12,7 @@
 	},
 	"scripts": {
 		"publish": "npm version patch && vsce publish",
-		"package": "rm *.vsix && vsce package"
+		"package": "rm *.vsix & vsce package"
 	},
 	"repository": {
 		"type": "git",
