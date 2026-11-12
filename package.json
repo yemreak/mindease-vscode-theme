@@ -1,80 +1,80 @@
 {
-	"name": "mindease-vscode-theme",
-	"displayName": "MindEase Theme",
-	"description": "Crafted with Neurodesign, Built for You",
-	"version": "0.1.7",
-	"publisher": "yemreak",
-	"license": "Apache-2.0",
-	"icon": "icon.png",
-	"galleryBanner": {
-		"color": "#1e1e1c",
-		"theme": "dark"
-	},
-	"scripts": {
-		"publish": "npm version patch && vsce publish",
-		"package": "rm *.vsix & vsce package"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/yemreak/mindease-vscode-theme"
-	},
-	"bugs": {
-		"url": "https://github.com/yemreak/mindease-vscode-theme/issues"
-	},
-	"engines": {
-		"vscode": "^1.43.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"theme",
-		"light",
-		"dark",
-		"mind",
-		"mindease",
-		"ease",
-		"github",
-		"neurodesign",
-		"yemreak",
-		"typescript",
-		"javascript",
-		"react",
-		"python",
-		"night",
-		"solarized",
-		"blue"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "1. 🌑 Dark Mode: A Starry Night",
-				"uiTheme": "vs-dark",
-				"path": "./themes/starry-night.json"
-			},
-			{
-				"label": "2. 🌚 CosmicCrisp: Brilliance in High Contrast",
-				"uiTheme": "hc-black",
-				"path": "./themes/cosmic-crisp.json"
-			},
-			{
-				"label": "3. 🦉 Night Owl: Wisdom in Darkness",
-				"uiTheme": "vs-dark",
-				"path": "./themes/night-owl.json"
-			},
-			{
-				"label": "4. 🌕 Light Mode: A New Dawn (Beta)",
-				"uiTheme": "vs",
-				"path": "./themes/new-dawn.json"
-			}
-		]
-	},
-	"devDependencies": {
-		"@vscode/vsce": "^2.26.1"
-	},
-	"__metadata": {
-		"id": "43c80285-dbc1-6e33-9c10-691920490e4a",
-		"publisherDisplayName": "yEmreAk",
-		"publisherId": "yemreak"
-	}
+  "name": "mindease-vscode-theme",
+  "displayName": "MindEase Theme",
+  "description": "Crafted with Neurodesign, Built for You",
+  "version": "0.1.8",
+  "publisher": "yemreak",
+  "license": "Apache-2.0",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e1e1c",
+    "theme": "dark"
+  },
+  "scripts": {
+    "publish": "npm version patch && vsce publish",
+    "package": "rm *.vsix & vsce package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yemreak/mindease-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/yemreak/mindease-vscode-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "dark",
+    "mind",
+    "mindease",
+    "ease",
+    "github",
+    "neurodesign",
+    "yemreak",
+    "typescript",
+    "javascript",
+    "react",
+    "python",
+    "night",
+    "solarized",
+    "blue"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "1. 🌑 Dark Mode: A Starry Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starry-night.json"
+      },
+      {
+        "label": "2. 🌚 CosmicCrisp: Brilliance in High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/cosmic-crisp.json"
+      },
+      {
+        "label": "3. 🦉 Night Owl: Wisdom in Darkness",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl.json"
+      },
+      {
+        "label": "4. 🌕 Light Mode: A New Dawn (Beta)",
+        "uiTheme": "vs",
+        "path": "./themes/new-dawn.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.26.1"
+  },
+  "__metadata": {
+    "id": "43c80285-dbc1-6e33-9c10-691920490e4a",
+    "publisherDisplayName": "yEmreAk",
+    "publisherId": "yemreak"
+  }
 }
